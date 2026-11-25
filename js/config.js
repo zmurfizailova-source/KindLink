@@ -5,6 +5,6 @@
   Не используй здесь service_role key — его нельзя публиковать в браузере.
 */
 window.KINDLINK_CONFIG = {
-  supabaseUrl: "YOUR_SUPABASE_URL",
-  supabaseAnonKey: "YOUR_SUPABASE_ANON_KEY"
+  supabaseUrl: "https://zmurfizailova-source.github.io/KindLink/",
+  supabaseAnonKey: "sb_publishable_xEg5WR3zRyWYzhI7PkVpaA_LEluNgU4"
 };
